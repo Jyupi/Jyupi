@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jyupi
 - 👀 I’m interested in learning different computer languages
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me? Please do not.
 
